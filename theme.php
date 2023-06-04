@@ -58,14 +58,6 @@
 
 				</div>
 			</section>
-
-			<section class="wrapper style2">
-					<div class="inner">
-						<!-- Static editable block, same on each page -->
-						<?= $Wcms->block('subside') ?>
-
-					</div>
-			</section>
 		</div>
 
 		<footer class="wrapper style2">
