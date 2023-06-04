@@ -1,10 +1,10 @@
 {
     "version": 1,
     "themes": {
-        "sky": {
-            "name": "Sky",
-            "repo": "https://github.com/nskeim/sky/tree/master",
-            "zip": "https://github.com/nskeim/sky/archive/master.zip",
+        "sky-edited": {
+            "name": "Sky-edited",
+            "repo": "https://github.com/nskeim/sky-edited/tree/master",
+            "zip": "https://github.com/nskeim/sky-edited/archive/master.zip",
             "summary": "Edited Default WonderCMS theme (2022). Theme works without Bootstrap and jQuery.",
             "version": "3.2.4",
             "image": "https://raw.githubusercontent.com/robiso/sky/master/preview.jpg"
